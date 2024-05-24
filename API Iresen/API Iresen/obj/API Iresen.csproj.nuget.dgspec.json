@@ -1,37 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdlah\\Documents\\Stage\\Iresen\\Back\\API Iresen\\API Iresen\\API Iresen.csproj": {}
+    "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdlah\\Documents\\Stage\\Iresen\\Back\\API Iresen\\API Iresen\\API Iresen.csproj": {
+    "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdlah\\Documents\\Stage\\Iresen\\Back\\API Iresen\\API Iresen\\API Iresen.csproj",
+        "projectUniqueName": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj",
         "projectName": "API Iresen",
-        "projectPath": "C:\\Users\\abdlah\\Documents\\Stage\\Iresen\\Back\\API Iresen\\API Iresen\\API Iresen.csproj",
+        "projectPath": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj",
         "packagesPath": "C:\\Users\\abdlah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdlah\\Documents\\Stage\\Iresen\\Back\\API Iresen\\API Iresen\\obj\\",
+        "outputPath": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\abdlah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,15 +34,56 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.6.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.2, )"
             }
           },
           "imports": [
@@ -69,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
