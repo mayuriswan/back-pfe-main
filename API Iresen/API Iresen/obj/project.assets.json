@@ -7247,19 +7247,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abdlah\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatima zahra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj",
+      "projectUniqueName": "C:\\Users\\Fatima zahra\\Documents\\GitHub\\back-pfe\\API Iresen\\API Iresen\\API Iresen.csproj",
       "projectName": "API Iresen",
-      "projectPath": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\API Iresen.csproj",
-      "packagesPath": "C:\\Users\\abdlah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdlah\\source\\repos\\API Iresen\\API Iresen\\obj\\",
+      "projectPath": "C:\\Users\\Fatima zahra\\Documents\\GitHub\\back-pfe\\API Iresen\\API Iresen\\API Iresen.csproj",
+      "packagesPath": "C:\\Users\\Fatima zahra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatima zahra\\Documents\\GitHub\\back-pfe\\API Iresen\\API Iresen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abdlah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatima zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7350,7 +7350,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
