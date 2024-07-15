@@ -53,7 +53,33 @@ namespace API_Iresen.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(user).State = EntityState.Modified;
+            // Retrieve the existing user from the database
+            var existingUser = await _context.Users.FindAsync(id);
+            if (existingUser == null)
+            {
+                return NotFound();
+            }
+
+            // Update the user properties
+            existingUser.Firstname = user.Firstname;
+            existingUser.Lastname = user.Lastname;
+            existingUser.Phone = user.Phone;
+            existingUser.Role = user.Role;
+
+            // Hash the password if it is provided
+            if (!string.IsNullOrEmpty(user.Password))
+            {
+                using (SHA256 sha256Hash = SHA256.Create())
+                {
+                    byte[] bytes = sha256Hash.ComputeHash(Encoding.UTF8.GetBytes(user.Password));
+                    StringBuilder builder = new StringBuilder();
+                    for (int i = 0; i < bytes.Length; i++)
+                    {
+                        builder.Append(bytes[i].ToString("x2"));
+                    }
+                    existingUser.Password = builder.ToString();
+                }
+            }
 
             try
             {

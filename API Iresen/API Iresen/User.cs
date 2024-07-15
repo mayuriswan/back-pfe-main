@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using API_Iresen.Models;
+using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -23,5 +24,8 @@ namespace API_Iresen
         public string Password { get; set; }
 
         public int Role { get; set; }
+
+        public ICollection<Project>? ProjectsToEvaluate { get; set; } = new List<Project>();
+
     }
 }
