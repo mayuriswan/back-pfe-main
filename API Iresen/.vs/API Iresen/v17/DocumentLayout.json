@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\controllers\\submissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240718150629_12th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API Iresen\\Migrations\\20240718150629_12th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\evaluationnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +43,12 @@
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\controllers\\evaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715175524_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API Iresen\\Migrations\\20240715175524_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\evaluationcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\evaluationcriterion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715172915_10th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API Iresen\\Migrations\\20240715172915_10th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\formfieldvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\migrations\\20240713134831_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\migrations\\20240713134831_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\models\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\models\\reviewcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -193,6 +193,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\migrations\\20240713144736_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\migrations\\20240713144736_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\migrations\\20240715175524_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\migrations\\20240715175524_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|c:\\users\\aelhaoussi\\downloads\\back-pfe\\api iresen\\api iresen\\migrations\\20240715172915_10th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CCE123-D809-4A4D-96C8-EC9F7E0B4E1A}|API Iresen\\API Iresen.csproj|solutionrelative:api iresen\\migrations\\20240715172915_10th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -202,54 +210,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\.gitignore",
-              "RelativeDocumentMoniker": "API Iresen\\.gitignore",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\.gitignore",
-              "RelativeToolTip": "API Iresen\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-07-15T18:41:21.736Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "20240718150629_12th.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240718150629_12th.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Migrations\\20240718150629_12th.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240718150629_12th.cs",
+              "RelativeToolTip": "API Iresen\\Migrations\\20240718150629_12th.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:06:29.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubmissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\SubmissionsController.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Controllers\\SubmissionsController.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\SubmissionsController.cs",
+              "RelativeToolTip": "API Iresen\\Controllers\\SubmissionsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:02:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "API Iresen\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAL4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:09:44.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EvaluationCriterion.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationCriterion.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationCriterion.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationCriterion.cs",
+              "RelativeToolTip": "API Iresen\\Models\\EvaluationCriterion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:42:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240715175524_11th.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715175524_11th.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Migrations\\20240715175524_11th.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715175524_11th.cs",
+              "RelativeToolTip": "API Iresen\\Migrations\\20240715175524_11th.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Evaluation.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Models\\Evaluation.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Evaluation.cs",
+              "RelativeToolTip": "API Iresen\\Models\\Evaluation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:10:13.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Submission.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Submission.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\Submission.cs",
               "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Submission.cs",
               "RelativeToolTip": "API Iresen\\Models\\Submission.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T11:38:53.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Data\\DataContext.cs",
-              "RelativeToolTip": "API Iresen\\Data\\DataContext.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwFIAAAAAAAAA",
+              "DocumentIndex": 17,
+              "Title": "EvaluationForm.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationForm.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationForm.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationForm.cs",
+              "RelativeToolTip": "API Iresen\\Models\\EvaluationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T22:03:47.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T03:15:07.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "EvaluationNote.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationNote.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationNote.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationNote.cs",
+              "RelativeToolTip": "API Iresen\\Models\\EvaluationNote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:41:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EvaluationsController.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\EvaluationsController.cs",
               "RelativeDocumentMoniker": "API Iresen\\Controllers\\EvaluationsController.cs",
@@ -262,71 +344,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EvaluationNote.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationNote.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationNote.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationNote.cs",
-              "RelativeToolTip": "API Iresen\\Models\\EvaluationNote.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:41:53.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EvaluationForm.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationForm.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationForm.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationForm.cs",
-              "RelativeToolTip": "API Iresen\\Models\\EvaluationForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T03:15:07.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "API Iresen\\Controllers\\ProjectsController.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAAM8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:09:44.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EvaluationCriterion.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationCriterion.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationCriterion.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationCriterion.cs",
-              "RelativeToolTip": "API Iresen\\Models\\EvaluationCriterion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:42:25.314Z",
-              "EditorCaption": ""
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\.gitignore",
+              "RelativeDocumentMoniker": "API Iresen\\.gitignore",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\.gitignore",
+              "RelativeToolTip": "API Iresen\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-15T18:41:21.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20240715175524_11th.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715175524_11th.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Migrations\\20240715175524_11th.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715175524_11th.cs",
-              "RelativeToolTip": "API Iresen\\Migrations\\20240715175524_11th.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Step.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Step.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Models\\Step.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Step.cs",
+              "RelativeToolTip": "API Iresen\\Models\\Step.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:55:24.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T03:51:20.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "API Iresen\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Data\\DataContext.cs",
+              "RelativeToolTip": "API Iresen\\Data\\DataContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:03:47.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EvaluationNoteCriterion.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\EvaluationNoteCriterion.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\EvaluationNoteCriterion.cs",
@@ -334,25 +388,11 @@
               "RelativeToolTip": "API Iresen\\Models\\EvaluationNoteCriterion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:42:07.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T17:42:07.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Evaluation.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Evaluation.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Models\\Evaluation.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Evaluation.cs",
-              "RelativeToolTip": "API Iresen\\Models\\Evaluation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T22:10:13.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EvaluationFormsController.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\EvaluationFormsController.cs",
               "RelativeDocumentMoniker": "API Iresen\\Controllers\\EvaluationFormsController.cs",
@@ -365,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Program.cs",
               "RelativeDocumentMoniker": "API Iresen\\Program.cs",
@@ -377,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StepValue.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\StepValue.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\StepValue.cs",
@@ -389,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 49,
               "Title": "20240715172915_10th.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240715172915_10th.cs",
               "RelativeDocumentMoniker": "API Iresen\\Migrations\\20240715172915_10th.cs",
@@ -397,12 +437,11 @@
               "RelativeToolTip": "API Iresen\\Migrations\\20240715172915_10th.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:29:15.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T17:29:15.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FormFieldValue.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\FormFieldValue.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\FormFieldValue.cs",
@@ -426,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Project.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\Project.cs",
@@ -486,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "API Iresen\\Controllers\\UsersController.cs",
@@ -510,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ReviewForm.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\ReviewForm.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\ReviewForm.cs",
@@ -546,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FormField.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\FormField.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\FormField.cs",
@@ -570,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Formulaire.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Formulaire.cs",
               "RelativeDocumentMoniker": "API Iresen\\Models\\Formulaire.cs",
@@ -606,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20240713134831_second.cs",
               "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Migrations\\20240713134831_second.cs",
               "RelativeDocumentMoniker": "API Iresen\\Migrations\\20240713134831_second.cs",
@@ -615,18 +654,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T13:48:32.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Step.cs",
-              "DocumentMoniker": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Step.cs",
-              "RelativeDocumentMoniker": "API Iresen\\Models\\Step.cs",
-              "ToolTip": "C:\\Users\\aelhaoussi\\Downloads\\back-pfe\\API Iresen\\API Iresen\\Models\\Step.cs",
-              "RelativeToolTip": "API Iresen\\Models\\Step.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T03:51:20.507Z"
             },
             {
               "$type": "Document",

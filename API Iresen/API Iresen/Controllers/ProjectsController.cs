@@ -185,7 +185,21 @@ namespace API_Iresen.Controllers
 
             return Ok(hasSubmitted);
         }
-      
+        // GET: api/Projects/Responsible/5
+        [HttpGet("Responsible/{responsibleId}")]
+        public async Task<ActionResult<IEnumerable<Project>>> GetProjectsForResponsible(int responsibleId)
+        {
+            var projects = await _context.Projects
+                .Where(p => p.ResponsiblePersonId == responsibleId)
+                .ToListAsync();
+
+            if (projects == null)
+            {
+                return NotFound();
+            }
+
+            return projects;
+        }
 
         [HttpGet("{projectId}/submissions")]
         public async Task<ActionResult<IEnumerable<Submission>>> GetSubmissionsForProject(int projectId)
